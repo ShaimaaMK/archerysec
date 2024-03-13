@@ -1,18 +1,21 @@
 [
     {
-        "projectName" : "BCP-MA",
-        "projectId"   :  "",
-        "projectOwner":  "" 
+        "projectName" :  "BCP-MA",
+        "projectId"   :  "bada4134-45f4-42bf-a0e0-f810692c5ec7",
+        "cicdId"      :  "851c1a5d-64a3-4f84-b67e-d4f84a1ce300",
+        "projectOwner":  "admin" 
     },
 
     {
         "projectName" : "SG-MA",
-        "projectId"   :  "",
-        "projectOwner":  "" 
+        "projectId"   : "59413b3f-4745-4f04-b507-3e1bfb959313",
+        "cicdID"      : "2f712b44-6df6-4255-a70c-7df0dfbab795",
+        "projectOwner": "admin" 
     },
     {
     "projectName" : "BNDE",
-    "projectId"   :  "",
-    "projectOwner":  "" 
+    "projectId"   : "54a7457d-b28f-4871-848c-44f5d235daa6",
+    "cicdID"      : "0e876799-2661-4df8-9757-d898699bb746",
+    "projectOwner": "admin"
     }
 ]
