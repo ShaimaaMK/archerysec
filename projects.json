@@ -9,13 +9,13 @@
     {
         "projectName" : "SG-MA",
         "projectId"   : "59413b3f-4745-4f04-b507-3e1bfb959313",
-        "cicdID"      : "2f712b44-6df6-4255-a70c-7df0dfbab795",
+        "cicdId"      : "2f712b44-6df6-4255-a70c-7df0dfbab795",
         "projectOwner": "admin" 
     },
     {
     "projectName" : "BNDE",
     "projectId"   : "54a7457d-b28f-4871-848c-44f5d235daa6",
-    "cicdID"      : "0e876799-2661-4df8-9757-d898699bb746",
+    "cicdId"      : "0e876799-2661-4df8-9757-d898699bb746",
     "projectOwner": "admin"
     }
 ]
